@@ -1,7 +1,7 @@
 # Bitstamp Bitcoin Exchange Rate v1.0
 ## OpenCart Extension
 ### by John Atkinson (jga) from BTC Gear (http://www.btcgear.com)
-### changed to use Bitstamp BTC price by Lisandro Gallo (twitter.com/lisogallo)
+### changed to use Bitstamp BTC price by Lisandro Gallo (lisogallo)
 
 This OpenCart extension initializes the Bitcoin (BTC) currency inside OpenCart and updates the exchange rate every minute to remain current. It calculates the average trade value (from high and low values obtained) or pulls the last trade value, all from Bitstamp, and uses whichever one is friendlier for the merchant thus lessening the currency risk.
 
@@ -28,15 +28,12 @@ This extension only works with USD currency supported by the Bitstamp API.
 * 1.5.6
 * 1.5.6.1
 
-If you have any issues or comments about this software, please contact: liso [at] riseup (dot) net
-
-AUTHOR:
-Lisandro Gallo (lisogallo) - Email: liso [at] riseup (dot) net
-
 --
 
 Based on the Bitcoin Exchange Rate v1.2 by John Atkinson (jga) from BTC Gear
 https://github.com/btcgear/Bitcoin_Exchange_Rate_OpenCart
+
+Modified by Lisandro Gallo (lisogallo) - Email: liso [at] riseup (dot) net
 
 Copyright (c) 2013 John Atkinson (jga)
 
