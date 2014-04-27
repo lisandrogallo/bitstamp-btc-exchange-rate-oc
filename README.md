@@ -3,7 +3,7 @@
 ### by John Atkinson (jga) from BTC Gear (http://www.btcgear.com)
 ### changed to use Bitstamp BTC price by Lisandro Gallo (lisogallo)
 
-**Bounties / Donations:** 1CPb9QZBkz3gD1rvG9ekNFK5k6jpUycika
+**Donations:** 1CPb9QZBkz3gD1rvG9ekNFK5k6jpUycika
 
 This OpenCart extension initializes the Bitcoin (BTC) currency inside OpenCart and updates the exchange rate every minute to remain current. It calculates the average trade value (from high and low values obtained) or pulls the last trade value, all from Bitstamp, and uses whichever one is friendlier for the merchant thus lessening the currency risk.
 
